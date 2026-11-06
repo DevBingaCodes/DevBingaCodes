@@ -52,7 +52,7 @@ I'm a DevOps Engineer and Full-Stack Developer with a strong focus on designing 
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Allan-Binga&theme=radical&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=DevBingaCodes&theme=radical&hide_border=true" width="60%" />
 </p>
 
 ---
